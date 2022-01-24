@@ -1,0 +1,76 @@
+html {
+  background: url(background.jpg) ;
+  background-size: cover;
+background-repeat: no-repeat;}
+#corpo{
+margin:40px auto ;
+
+background-color:rgba(0, 0, 0, 0.50);
+width: 1200px;
+height: 800px;
+}
+.logo{
+width: 220px;
+display: block;
+
+  margin: 0 auto;
+  padding-top: 80px;
+
+}
+
+.titolo{
+color: lime;
+text-align: center;
+font-size: 30px;
+margin-top: 10px;
+}
+
+.bottoni {
+  display: inline-block;
+  background-color: lime;
+  margin-left: 9%;
+  width: 1000px;
+  height: 30px;
+  text-align: center;
+  padding-top: 12px;
+}
+.checkbox{
+margin-left: 9%;
+}
+
+.choise{
+  display: inline-block;
+  color: white;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+.info{
+  font-size: 15px;
+  color: white;
+  margin-top: 0;
+  padding-top: 0;
+}
+.caricam{
+  margin-left: 9%;
+  width: 22%;
+  height: 25px;
+  background-color: orange;
+  border-radius: 2%;
+
+}
+.caricaf{
+  margin-left: 9%;
+  width: 50%;
+  height: 25px;
+  background-color: green;
+  border-radius: 2%;
+}
+
+.carical{
+  margin-left: 9%;
+  width: 10%;
+  height: 25px;
+  background-color: red;
+  border-radius: 2%;
+
+}
